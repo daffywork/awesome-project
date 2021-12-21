@@ -67,3 +67,7 @@ This is an ***amazing*** journey
 * Test2
     * Test1.1
     * Test2.1
+
+### Paragraphs
+This is a test1.    
+This is a test2.
