@@ -6,19 +6,19 @@
         <a href="#test-numbering-and-spaces">Test numbering and spaces</a> 
     </li>
     <li>
-        <a href="">Test numbering and spaces</a>
+        <a href="#testing-block-of-code">Block of Code</a>
     </li>
     <li>
-        <a href="">Test numbering and spaces</a>
+        <a href="#testing-link">Link</a>
     </li>
     <li>
-        <a href="">Test numbering and spaces</a>
+        <a href="#trying-out-bolding-and-italics">Bold & Italics</a>
     </li>
     <li>
-        <a href="">Test numbering and spaces</a>
+        <a href="#quotes">Quotes</a>
     </li>
     <li>
-        <a href="">Test numbering and spaces</a>
+        <a href="#ordered-listunordered-list">Ordered List & Unordered List</a>
     </li>
     <li>
         <a href="#paragraphs">Paragraphs</a>
