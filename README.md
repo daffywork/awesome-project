@@ -43,3 +43,10 @@ This is an ***amazing*** journey
 2. Test2
 5. Test3
 8. Test4
+
+<ol>
+    <li>Test1</li>
+    <li>Test2</li>
+    <li>Test3</li>
+    <li>Test4</li>
+</ol>
