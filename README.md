@@ -96,3 +96,7 @@ This is an ***amazing*** journey
 ### Paragraphs
 This is a test1.    
 This is a test2.
+
+### Image
+
+![Logo](/logo.jpg)
