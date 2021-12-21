@@ -4,5 +4,12 @@
 2. This is a test2
 
 ## Getting Started
+
+* Running this file
+```sh
+git init
+```
+
+
 ### Getting Started
 
