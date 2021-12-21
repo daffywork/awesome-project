@@ -6,7 +6,9 @@
 ## Getting Started
 
 * Running this file
-"git init"
+    ```sh
+    git init
+    ```
 
 
 ### Getting Started
