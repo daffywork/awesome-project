@@ -1,6 +1,31 @@
 <h1 align="center">Web Project</h1>
 
-# Test numbering and spaces
+## Table of Contents
+<ol>
+    <li>
+        <a href="#test-numbering-and-spaces">Test numbering and spaces</a> 
+    </li>
+    <li>
+        <a href="">Test numbering and spaces</a>
+    </li>
+    <li>
+        <a href="">Test numbering and spaces</a>
+    </li>
+    <li>
+        <a href="">Test numbering and spaces</a>
+    </li>
+    <li>
+        <a href="">Test numbering and spaces</a>
+    </li>
+    <li>
+        <a href="">Test numbering and spaces</a>
+    </li>
+    <li>
+        <a href="#paragraphs">Paragraphs</a>
+    </li>
+</ol>
+
+### Test numbering and spaces
 
 1. This is a test
 2. This is a test2
@@ -14,7 +39,7 @@ This is a test2
 <p>This is a test1.<br>
 This is a test2</p>
 
-## Testing block of code
+### Testing block of code
 
 * Running this file
     ```sh
