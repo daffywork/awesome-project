@@ -27,6 +27,6 @@ This is a test2</p>
 
 ### Trying out bolding and italics
 
-This is an **amazing** journey
-This is an *amazing* journey
-This is an ***amazing*** journey
+This is an **amazing** journey  
+This is an *amazing* journey  
+This is an ***amazing*** journey  
