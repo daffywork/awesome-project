@@ -39,6 +39,7 @@ This is an ***amazing*** journey
 
 ### Ordered List/Unordered List
 
+<!-- Ordered List -->
 1. Test1
 2. Test2
 5. Test3
@@ -52,3 +53,17 @@ This is an ***amazing*** journey
     <li>Test3</li>
     <li>Test4</li>
 </ol>
+
+
+* Test1
+* Test2
+* Test3
+
+- Test1
+- Test2
+- Test3
+
+* Test1
+* Test2
+    * Test1.1
+    * Test2.1
