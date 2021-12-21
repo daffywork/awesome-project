@@ -1,6 +1,6 @@
 <h1 align="center">Web Project</h1>
 
-# Getting Started
+# Test numbering and spaces
 
 1. This is a test
 2. This is a test2
@@ -14,12 +14,19 @@ This is a test2
 <p>This is a test1.<br>
 This is a test2</p>
 
-## Getting Started
+## Testing block of code
 
 * Running this file
     ```sh
     git init
     ```
 
-### Getting Started
+### Testing Link
 <a href="https://github.com">Access Github</a>
+
+
+### Trying out bolding and italics
+
+This is an **amazing** journey
+This is an *amazing* journey
+This is an ***amazing*** journey
