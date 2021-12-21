@@ -30,3 +30,7 @@ This is a test2</p>
 This is an **amazing** journey  
 This is an *amazing* journey  
 This is an ***amazing*** journey  
+
+### Quotes
+
+> This is an amazing journey
