@@ -6,9 +6,7 @@
 ## Getting Started
 
 * Running this file
-```
-git init
-```
+"git init"
 
 
 ### Getting Started
