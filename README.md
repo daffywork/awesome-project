@@ -11,6 +11,9 @@ This is a test2.
 This is a test1
 This is a test2
 
+<p>This is a test1.<br>
+This is a test2</p>
+
 ## Getting Started
 
 * Running this file
